@@ -1,0 +1,17 @@
+.recom{
+    position: absolute;
+    font-weight: 500;
+    top: 865px;
+width: 234px;
+height: 25px;
+text-align: left;
+font-size: 22px;
+letter-spacing: 0px;
+color: #143754;
+opacity: 1;
+}
+.cour{
+    width: 85%;
+    display: flex;
+    align-items: center;
+}

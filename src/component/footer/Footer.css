@@ -1,0 +1,79 @@
+.footer{
+    position: absolute;
+    top: 2030px;
+left: 0px;
+width: 87.2%;
+height: 435px;
+background: #EDEDED 0% 0% no-repeat padding-box;
+opacity: 1;
+display: flex;
+flex-direction: row;
+padding-left: 97px;
+padding-right: 97px;
+padding-top: 57px;
+overflow-x: hidden;
+}
+.footertab{
+    margin-right: 120px;
+}
+.foothead{
+    text-align: left;
+font-size:25px;
+letter-spacing: 0px;
+color: #143754;
+opacity: 1;
+font-weight: 500;
+margin-bottom: 23px;
+}
+.copy{
+    text-align: left;
+font-size: 15px;
+letter-spacing: 0px;
+color: #143754;
+opacity: 1;
+}
+.footmenu{
+    text-align: left;
+font-size: 15px;
+letter-spacing: 0px;
+color: #143754;
+opacity: 1;
+margin-bottom: 20px;
+}
+.map{
+    border: none;
+    margin-bottom: 26px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.fb{
+    font-size: 37px;
+    border-radius: 25px;
+    color: #143754;
+    padding: 4px;
+    margin-right: 10px;
+}
+.linked{
+    font-size: 30px;
+    border-radius: 25px;
+    padding: 4px;
+    background: #143754;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+.insta{
+    font-size: 30px;
+    border-radius: 25px;
+    padding: 4px;
+    background: #143754;
+    color: #FFFFFF;
+    margin-right: 5px;
+}
+.you{
+    font-size: 48px;
+    border-radius: 25px;
+    color: #143754;
+}
