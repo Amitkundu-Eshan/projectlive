@@ -12,7 +12,7 @@ const Footer = () => {
            <div className="footer">
                <div className="footertab">
                    <p className="foothead">Download The App Now</p>
-                   <img style={{marginBottom:"31.59px"}} alt="" src="assets/Appstore.png"></img><br/>
+                   <img style={{marginBottom:"31.59px"}} alt="" src="public/assets/Appstore.png"></img><br/>
                    <img style={{marginBottom:"77.59px"}} alt="" src="assets/googleplay.png"></img>
                    <p className="copy">@ copyright sketchMonk 2021</p>
                </div>
